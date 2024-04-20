@@ -40,6 +40,7 @@ const Navbar = () => {
           <button class="inline-flex items-center  border-0 py-1 px-3 focus:outline-black hover:bg-gray-200 rounded  mt-4 md:mt-0 mr-3 text-2xl text-black">
           <FaShoppingCart /> Cart
           </button>
+          {/* hyfgchgvhjbjvgu */}
         </div>
       </header>
     </div>
